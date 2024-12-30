@@ -1,0 +1,11 @@
+.container {
+    background-color: #1b5441;
+    text-align: center;
+    align-items: center;
+}
+p {
+    color: #ffffff;
+}
+img {
+    width: 15%;
+}
